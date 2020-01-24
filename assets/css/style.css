@@ -96,7 +96,7 @@ p
     margin-top: 20px;
 }
 /* Search engine optimization(SEO) article in the Main content of the Web page*/
-.SEO 
+#SEO 
 {   
     display: flex;
     flex-direction: row;
@@ -108,7 +108,7 @@ p
     color: #ffffff;
 }
 /*Article Search Engine Optimization(SEO) Image */
-.SEO img 
+#SEO img 
 {
    
     float: left;
@@ -117,7 +117,7 @@ p
     margin-right: 20px;
 }
 /* Article Search Engine Optimization(SEO) Heading*/
-.SEO h2 
+#SEO h2 
 {
     margin:10px 5px;
     padding: 10px;
@@ -125,7 +125,7 @@ p
     
 }
 /*In the Main content For Div:"hp" in Article Search Engine Optimization(SEO) */
-.content article SEO hp
+#content article SEO hp
 {   
     float: right;
     display: flex;
@@ -133,13 +133,13 @@ p
     margin-left: 10px;
 }
 /* Paragraph in article Search engine Optimization(SEO)*/
-.SEO p{
+#SEO p{
     margin:5px;
     padding: 10px;
     font-size: calc(12px + 0.3vw);
 }
 /* Online Reputation Management(ORM) article in the Main content of the Web page*/
-.ORM 
+#ORM 
 {
     display: flex;
         flex-direction: row;
@@ -151,14 +151,14 @@ p
         color: #ffffff;
 }
 /*Article Online Reputation Management(ORM) Image */
-.ORM img 
+#ORM img 
 {
     height: 200px;
         width:250px;
         margin-right: 20px;
 }
 /* Online Reputation Management(ORM) Heading*/
-.ORM h2 
+#ORM h2 
 {
     margin:10px 5px;
         padding: 10px;
@@ -172,14 +172,14 @@ p
         width: 100%;
 }
 /*Paragraph in article Online Reputation Management(ORM)*/
-.ORM p
+#ORM p
 {
     margin:5px;
     padding: 10px;
     font-size: calc(12px + 0.3vw);
 }
 /* Social Media Marketing(SMM) article in the Main content of the Web page*/
-.SMM
+#SMM
 {
         display: flex;
         flex-direction: row;
@@ -191,28 +191,28 @@ p
         color: #ffffff;
 }
 /* Article Social Media Marketing(SMM) Image */
-.SMM img
+#SMM img
 {
     height: 200px;
         width:250px;
         margin-right: 20px;
 }
 /* Social Media Marketing(SMM) Heading*/
-.SMM h2 
+#SMM h2 
 {
     margin:10px 5px;
         padding: 10px;
         font-size: calc(26px + 0.1vw);
 }
 /*In the Main content For Div:"hp" in Article Social Media Marketing(SMM)  */
-.content article SMM hp2
+#content article SMM hp2
 {
         display: flex;
         flex-direction: row;
         width: 100%;
 }
 /*Paragraph in article Social Media Marketing(SMM)*/
-.SMM p
+#SMM p
 {
     margin:5px;
     padding: 10px;
