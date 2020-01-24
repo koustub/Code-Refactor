@@ -71,7 +71,6 @@ p
     width: 100%;
     margin: 0 auto;
     padding: 0;
-  
     background-image: url(../images/digital-marketing-meeting.jpg);
     background-position: top center;
     background-repeat: no-repeat;
@@ -142,7 +141,7 @@ p
 #ORM 
 {
     display: flex;
-        flex-direction: row;
+        flex-direction:row-reverse;
         margin-bottom: 20px;
         padding: 50px;
         height: 300px;
