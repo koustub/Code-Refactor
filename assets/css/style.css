@@ -218,7 +218,7 @@ p
     font-size: calc(12px + 0.3vw);
 }
 
-/*Section Benefits */
+/* aside Benefits */
 .benefits 
 {
     margin-top: 20px;
@@ -233,70 +233,70 @@ p
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Article Lead Benefit Lead*/
+/* Benefit Lead*/
 .benefit-lead 
 {
   
     color: #ffffff;
     max-width: 100%;
 }
-/*Article Lead Benefit Lead Logo*/
+/* Benefit Lead Logo*/
 .benefit-lead img 
 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Article Lead Benefit Lead Heading*/
+/* Benefit Lead Heading*/
 .benefit-lead h3 
 {
     margin-bottom: 10px;
     text-align: center;
     font-size: calc(20px + 0.1vw);
 }
-/*Article Lead Benefit Brand*/
+/* Benefit Brand*/
 .benefit-brand 
 {
   
     color: #ffffff;
     max-width: 100%;
 }
-/*Article Lead Benefit Brand Logo*/
+/* Benefit Brand Logo*/
 .benefit-brand img 
 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Article Lead Benefit Brand Heading*/
+/* Benefit Brand Heading*/
 .benefit-brand h3 
 {
     
     text-align: center;
     font-size: calc(20px + 0.1vw);
 }
-/*Article Lead Benefit Cost*/
+/* Benefit Cost*/
 .benefit-cost 
 {
     
     color: #ffffff;
     max-width: 100%;
 }
-/*Article Lead Benefit Cost Logo*/
+/* Benefit Cost Logo*/
 .benefit-cost img 
 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Article Lead Benefit Cost Heading*/
+/* Benefit Cost Heading*/
 .benefit-cost h3 
 {
     margin-bottom: 10px;
     text-align: center;
     font-size: calc(20px + 0.1vw);
 }
-/*Section Benefits Paragraph*/
+/* Benefits Paragraph*/
 .benefits p 
 {
     margin:5px;
